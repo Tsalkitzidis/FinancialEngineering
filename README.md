@@ -59,7 +59,7 @@ Q15: Calculate and compare the Sharpe ratio for the two strategies.
 
 Q16: Calculate and compare maximum drawdown for the two strategies.
 
-## EXTRA QUESTIONS:
+## Extra Questions:
 
 The starting point for these questions are the 4-5 assets that you have picked for your portfolios in strategy 2 and 3. So in total you should perform the following statistical analysis for each of these 8-10 assets.
 
