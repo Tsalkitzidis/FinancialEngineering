@@ -16,7 +16,9 @@ Start with all the assets available in the Investment Funnel for the entire peri
 Q1: Now calculate the Sharpe Ratio for all the assets for the first half (the training set).
 
 Strategy 1:
+
 Q2: Pick up the top 4-5 assets with the highest Sharpe Ratios for the training set.
+
 Q3: Calculate the covariance matrix for these assets.
 
 Strategy 2:
@@ -25,7 +27,8 @@ Q5: Run the Minimum Spanning Tree method on this set a number of times until you
 Q6: Calculate the covariance matrix for these assets now and compare with the covariance matrix from strategy 1.
 
 ### Compare the performance of the two strategies:
-Q7: Calculate average return, std for the two strategies and compare. 
+Q7: Calculate average return, std for the two strategies and compare.
+
 Q8: Calculate and compare the Sharpe ratio for the two strategies. 
 Q9: Calculate and compare maximum drawdown for the two strategies.
 
